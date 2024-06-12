@@ -1,0 +1,19 @@
+{
+  "name": "helia-car-export-duplicates",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@helia/car": "^3.1.5",
+    "@helia/http": "^1.0.9",
+    "@helia/mfs": "^3.0.6",
+    "@ipld/car": "^5.3.1",
+    "multiformats": "^13.1.1"
+  }
+}
